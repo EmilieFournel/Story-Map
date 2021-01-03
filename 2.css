@@ -14,7 +14,7 @@
 .p {
     text-align: center;
     color: white;
-    font-size: 50px;
+   
 }
 
 #img{
@@ -33,13 +33,6 @@
        
     }
     
-    #header h2 {
-    /*   color:white; */
-      
-      opacity:1;
-      font-size:12px;
-      
-    }
     
     #main {
       padding-top:100px;
